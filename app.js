@@ -97,7 +97,7 @@ class ExchangeCounter extends React.Component {
     ));
 
     return (
-      <>
+      
         <div className="app">
           <h3 className="title">
             Witaj na lekcji 51 Kantor walut rozbudowa seckcji
@@ -121,9 +121,9 @@ class ExchangeCounter extends React.Component {
           </label>
           <div className="cash">{calculators}</div>
         </div>
-      </>
+        
+      
     );
   }
 }
-
 ReactDOM.render(<ExchangeCounter />, document.getElementById("root"));
