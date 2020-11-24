@@ -51,7 +51,7 @@ class ExchangeCounter extends React.Component {
     // ceny jakie sa np. pradu benzyny pomaranczy
     prices: {
       electricity: 0.51,
-      gas: 4.76,
+      gas: 6.78,
       oranges: 3.79,
     },
   };
