@@ -9,3 +9,5 @@ calculator: gas, orange, electricity
 ### Wartosc w euro: 15.00
 ### Wartosc w chinskich Yuan: 116.90
 ### Wartosc w funtach: 13.56
+
+![img](./assets/img.png)
